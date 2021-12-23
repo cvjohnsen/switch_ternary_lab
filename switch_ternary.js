@@ -1,6 +1,7 @@
 
+let num= Math.floor((Math.random() * 5))
 
-switch (num = Math.floor((Math.random() * 5))){ 
+switch (num){ 
 case 0:
 console.log("The first recorded zero appeared in Mesopotamia around 3 B.C");
 break;
