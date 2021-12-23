@@ -40,12 +40,12 @@ person.age >= 16 ? person.driver = 'Yes': person.driver = 'No';
 
 // Question 2)
 
-var age = 7;
-var kindergarten_eligible;
+// var age = 7;
+// var kindergarten_eligible;
 // if (age > 5) {
 // kindergarten_eligible = "Old enough";
 // }
 // else {
 // kindergarten_eligible = "Too young";
 // } 
-age > 5 ? kindergarten_eligible = "Old enough": kindergarten_eligible = "Too young"; 
+let age = 7 > 5 ? kindergarten_eligible = "Old enough": kindergarten_eligible = "Too young"; 
